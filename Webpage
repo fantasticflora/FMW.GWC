@@ -42,10 +42,59 @@
     <div data-role="header">
         <h1>Free Money Generator</h1>
     </div><!-- /header -->
-
     <div data-role="content">
         <p>Hi, Flora here!!! Remember to press --MONEY CHOICES--, then --Submit-- to get your free money.</p>
         <p><a href="#Free money generator">Cookies taste good</a></p>
 <p><a href="#THE NEXT STEP">Next Step?</a></p>
 <p><a href="#>Next Step!</a></p>
 <p><a href="#Step">Next Step</a></p>
+<p><a href="#Step.">Next Step.</a></p>
+        <label for="select-choice-a" class="select">Custom select menu:</label>
+        <select name="select-choice-a" id="options" data-native-menu="false">
+            <option>MONEY CHOICES</option>
+            <option value="Flora's Virus Downloaded">$10</option>
+            <option value="Next step. Press the --Next Step?-- button">$20</option>
+            <option value="WRONG BUTTON">$50</option>
+            <option value="MONEY UNEXPENDABLE">$100</option>
+                        <option value="VIRUS DOWNLOADED">$500</option>
+<option value="Evil Root Virus ">$1,000</option>
+<option value="Flora's Formula of Evilness downloaded">$5,000</option>
+<option value="Evilness in the computer">$10,000</option>
+<option value="Money is now changed to viruses">$50,000</option>
+                        <option value="Hello. I am sorry to inform you that the credit card company does not exist">Credit Card</option>
+            <input type="button" value="Submit" data-theme="b" onclick="changePicture()">
+        </select>
+        
+    </div><!-- /content -->
+    <div data-role="footer">
+        <h4>Page Footer</h4>
+    </div><!-- /footer -->
+</div><!-- /page -->
+<!-- Start of third page -->
+<div data-role="page" id="THE NEXT STEP">
+    <div data-role="header">
+        <h1>Free Money Generator</h1>
+    </div><!-- /header -->
+    <div data-role="content">
+        <p>You have chosen the AMOUNT: $50. 
+Please Press Continue and select -Great- to continue</p>
+        <p><a href="#Free money generator">Cookies taste good</a></p>
+<p><a href="#Step?">Next Step?</a></p>
+<p><a href="#Step!">Next Step!</a></p>
+<p><a href="#Step">Next Step</a></p>
+<p><a href="#Step.">Next Step.</a></p>
+        <label for="select-choice-a" class="select">Custom select menu:</label>
+        <select name="select-choice-a" id="options" data-native-menu="false">
+            <option>Continue</option>
+            <option value="FBI is tracking you">Good</option>
+            <option value="Why are you trying to make FAKE money? Hmmm?">Bad</option>
+            <option value="Press DONE for your money">Great</option>
+            <option value="TROLLED. HAHAHAHA">Excellent</option>
+            
+            <input type="button" value="Submit" data-theme="b" onclick="changePicture()">
+        </select>
+        
+    </div><!-- /content -->
+    <div data-role="footer">
+        <h4>(_/\_)</h4>
+</html>
