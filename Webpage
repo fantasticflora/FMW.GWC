@@ -85,7 +85,6 @@ Please Press Continue and select -Great- to continue</p>
 <p><a href="#Step.">Next Step.</a></p>
         <label for="select-choice-a" class="select">Custom select menu:</label>
         <select name="select-choice-a" id="options" data-native-menu="false">
-            <option>Continue</option>
             <option value="FBI is tracking you">Good</option>
             <option value="Why are you trying to make FAKE money? Hmmm?">Bad</option>
             <option value="Press DONE for your money">Great</option>
