@@ -13,8 +13,7 @@
             $("#picHolder").attr('src', $('#options').val() + '.png');
         }
     </script>
-    <link rel="stylesheet"
-        href="styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
@@ -30,6 +29,7 @@
         <p>Do you want an easy life as a billionare? Just fun and relaxation everyday?</p>
         <p>This link will take you to a website that will allow you to have YOUR choice in the money values <a href="#Free Money Generator">Something to press for free money</a></p>
         <p>Hi, I'm Flora. I am here to help you with the money transactions.<p>
+        
     </div><!-- /content -->
 
     <div data-role="footer">
