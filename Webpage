@@ -76,7 +76,14 @@
 <div data-role="page" id="THE NEXT STEP">
     <div data-role="header">
         <h1>Free Money Generator</h1>
+        <p> Hi! Flora here again! Right now, I am deeply sorry to inform you that we will be unable to give you any free money.<p>
+        <p> Instead, I'll tell you a little bit about myself. I am a 7th grader in Joaquin Miller Middle school, and my name is Flora!<p>
+        <p> This entire website was made with the help of the GWCSJ club. I LOVE eating, gaming, and READING!!! And additionally, I also love trolling people, as seen from this website<p>
+        <h1>Stay Cool! And Stay tuned for more information!<h1>
+        
     </div><!-- /header -->
+    <!--THIS PART IS COMMENTED OUT-->
+    <!--
     <div data-role="content">
         <p>You have chosen the AMOUNT: $50. 
 Please Press Continue and select -Great- to continue</p>
@@ -95,7 +102,7 @@ Please Press Continue and select -Great- to continue</p>
             
             <input type="button" value="Submit" data-theme="b" onclick="changePicture()">
         </select>
-        
+        -->
     </div><!-- /content -->
     <div data-role="footer">
         <h4>(_/\_)</h4>
